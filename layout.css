@@ -35,6 +35,7 @@ body {
  top: 40px;
  padding-right: 50px;
  display: none;
+ background: #FFFF00;
 }
 
 #panel-left.animate {
@@ -46,6 +47,7 @@ body {
 }
 
 .header-wrapper {
+	background: #FFFF00;
   position: absolute;
   width: 100%;
   left: 100%;
@@ -53,7 +55,7 @@ body {
 }
 
 .user-menu  .user-options {
-	background: #FA8F1C url(../img/orange-bg.png);
+	background: #FFFF00;
 	height: 40px;
 	width: 100%;
 }
